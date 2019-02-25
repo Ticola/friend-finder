@@ -15,5 +15,3 @@ HTML
 Materialize CSS
 ```
 - - -
-
-### **https://ticola.github.io/TheClickyGame/**
