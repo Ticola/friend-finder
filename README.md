@@ -1,1 +1,19 @@
-# friend-finder
+# Friend Finder App
+
+### **Overview**
+
+The Friend Finder application is basically a dating app, but for makin' new buddies. This full-stack site will take in users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match!
+- - -
+
+### **Friend Finder is created with:**
+```
+JavaScript
+jQuery
+node.js
+Express.js
+HTML
+Materialize CSS
+```
+- - -
+
+### **https://ticola.github.io/TheClickyGame/**
